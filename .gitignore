@@ -1,0 +1,7 @@
+app/env
+.DS_Store
+.env
+app/temp*
+app/venv
+app/.env
+app/.DS_Store
